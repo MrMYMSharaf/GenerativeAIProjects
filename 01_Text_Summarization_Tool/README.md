@@ -3,7 +3,7 @@
 ## Description:
 This is an **AI-powered tool** designed to help researchers and tech enthusiasts quickly **search research papers** and **summarize abstracts** using **state-of-the-art NLP** models. It leverages the power of **arXiv** for research paper search and **Hugging Face Transformers** for summarization with the `t5-small` model. The tool provides an intuitive interface built with **Streamlit**, allowing users to efficiently explore key insights.
 
-![Project Screenshot](img.png)
+![Project Screenshot](img.jpg)
 
 ## 🔍 What It Does:
 This tool empowers users to:  
