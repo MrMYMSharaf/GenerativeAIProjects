@@ -1,0 +1,8 @@
+streamlit
+arxiv
+pandas
+transformers
+torch 
+torchvision
+tensorflow
+tf-keras
